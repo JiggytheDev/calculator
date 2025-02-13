@@ -37,7 +37,7 @@ body {
 #keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 1rem;
+    gap: .7rem;
     background-color: hsla(0, 0%, 0%, 0.959);
     border-radius: 7px;
 }
