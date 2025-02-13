@@ -1,6 +1,7 @@
 ## Simple Calculator
   Welcome to the Simple Calculator project! 
   This is a basic calculator built using HTML, CSS, and Javascript. It's a great beginner-friendly project to practice front-end web development skills.
+  (https://jiggythedev.github.io/calculator/)
 
   ## Features
   - Basic Operations: Addition, subtraction, multiplication, and division.
